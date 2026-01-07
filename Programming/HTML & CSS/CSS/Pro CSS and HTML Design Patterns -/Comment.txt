@@ -1,0 +1,8 @@
+Books : Computers : English
+Increase creativity and productivity by using patterns in your web designs while leveraging CSS and (X)HTML best practices.
+
+Design patterns have been used with great success in software programming. They improve productivity, creativity, and efficiency in web design and development, and they reduce code bloat and complexity. In the context of CSS and HTML, design patterns are sets of common functionality that work across various browsers and screen readers, without sacrificing design values or accessibility or relying on hacks and filters. But until now they have not been applied systematically to HTML and CSS web design and development.
+
+With the help of Pro CSS and HTML Design Patterns, you can reap the benefits of using design patterns in your HTML and CSS code. The book provides you with all the CSS and HTML design patterns you need. Web development expert and author Michael Bowers then takes you through multiple design patterns for text, backgrounds, borders, images, forms, layouts, and much more. He shows you exactly how each one works, and how to use them most effectively in your own projects. After you learn about these design patterns, youll wonder how you ever developed web sites without them!
+
+Enjoy, and PLEASE SEED!
